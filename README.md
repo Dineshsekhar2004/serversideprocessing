@@ -37,7 +37,7 @@ Link the html file through views.py in urls.py.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -89,7 +89,7 @@ Publish the website in the given URL.
     </div>
 </body>
 </html>
-
+```
 
 ## OUTPUT:
 ![Screenshot (20)](https://user-images.githubusercontent.com/119405916/214235521-59a5476d-f047-424a-8fce-108efeae8619.png)
